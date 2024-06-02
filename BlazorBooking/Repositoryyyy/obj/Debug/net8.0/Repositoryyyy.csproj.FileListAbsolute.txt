@@ -1,0 +1,15 @@
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\bin\Debug\net8.0\Repositoryyyy.deps.json
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\bin\Debug\net8.0\Repositoryyyy.runtimeconfig.json
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\bin\Debug\net8.0\Repositoryyyy.dll
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\bin\Debug\net8.0\Repositoryyyy.pdb
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.csproj.AssemblyReference.cache
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.AssemblyInfoInputs.cache
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.AssemblyInfo.cs
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.csproj.CoreCompileInputs.cache
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.sourcelink.json
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.dll
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\refint\Repositoryyyy.dll
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.pdb
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\Repositoryyyy.genruntimeconfig.cache
+C:\Users\nosko\Downloads\BlazorCrud\BlazorBooking\Repositoryyyy\obj\Debug\net8.0\ref\Repositoryyyy.dll

@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u0421#\\BlazorBooking\\",
+  "WorkspaceRootPath": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\\u0441#\\blazorbooking\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7842B82F-BF28-4F84-BC85-9718A293AAB5}|Crud.Server\\Crud.Server.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\crud.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7842B82F-BF28-4F84-BC85-9718A293AAB5}|Crud.Server\\Crud.Server.csproj|solutionrelative:crud.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\context\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\context\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7842B82F-BF28-4F84-BC85-9718A293AAB5}|Crud.Server\\Crud.Server.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\crud.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7842B82F-BF28-4F84-BC85-9718A293AAB5}|Crud.Server\\Crud.Server.csproj|solutionrelative:crud.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7A5614-71FD-40A3-ACB2-D4A662759ECA}|ClientBlazor\\ClientBlazor.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\clientblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7A5614-71FD-40A3-ACB2-D4A662759ECA}|ClientBlazor\\ClientBlazor.csproj|solutionrelative:clientblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\entytys\\serviceproviderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\entytys\\serviceproviderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\entytys\\apartaments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\entytys\\apartaments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\entytys\\informationaboutapartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\entytys\\informationaboutapartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|c:\\users\\nosko\\downloads\\blazorcrud\\blazorbooking\\core\\entytys\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CACFD-ABC2-4F8C-8AB3-4179EC84A66A}|Core\\Core.csproj|solutionrelative:core\\entytys\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\\u0421#\\BlazorBooking\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\Class1.cs",
-              "ToolTip": "C:\\\u0421#\\BlazorBooking\\Core\\Class1.cs",
-              "RelativeToolTip": "Core\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Crud.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Crud.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Crud.Server\\Program.cs",
+              "RelativeToolTip": "Crud.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:01:51.689Z",
+              "WhenOpened": "2024-06-02T23:30:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\ClientBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "ClientBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\ClientBlazor\\Program.cs",
+              "RelativeToolTip": "ClientBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:30:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Crud.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Crud.Server\\appsettings.json",
+              "RelativeToolTip": "Crud.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T23:30:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Context\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Context\\User.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Context\\User.cs",
+              "RelativeToolTip": "Core\\Context\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:22:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProviderr.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\ServiceProviderr.cs",
+              "RelativeDocumentMoniker": "Core\\Entytys\\ServiceProviderr.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\ServiceProviderr.cs",
+              "RelativeToolTip": "Core\\Entytys\\ServiceProviderr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:18:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InformationAboutApartment.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\InformationAboutApartment.cs",
+              "RelativeDocumentMoniker": "Core\\Entytys\\InformationAboutApartment.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\InformationAboutApartment.cs",
+              "RelativeToolTip": "Core\\Entytys\\InformationAboutApartment.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:17:36.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apartaments.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\Apartaments.cs",
+              "RelativeDocumentMoniker": "Core\\Entytys\\Apartaments.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\Apartaments.cs*",
+              "RelativeToolTip": "Core\\Entytys\\Apartaments.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:14:28.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Context\\BookingContext.cs",
+              "RelativeDocumentMoniker": "Core\\Context\\BookingContext.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Context\\BookingContext.cs*",
+              "RelativeToolTip": "Core\\Context\\BookingContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:47:06.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\IEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entytys\\IEntity.cs",
+              "ToolTip": "C:\\Users\\nosko\\Downloads\\BlazorCrud\\BlazorBooking\\Core\\Entytys\\IEntity.cs",
+              "RelativeToolTip": "Core\\Entytys\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:17:07.83Z",
               "EditorCaption": ""
             }
           ]
