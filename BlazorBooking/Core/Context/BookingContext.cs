@@ -3,6 +3,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +27,17 @@ namespace Core.Context
         public DbSet<Apartaments> Actors => Set<Apartaments>();
         public DbSet<InformationAboutApartment> Cinemas => Set<InformationAboutApartment>();
         public DbSet<ServiceProviderr> Directors => Set<ServiceProviderr>();
-   
-       
+        public class HomeCrudContextFactory : IDesignTimeDbContextFactory<BookingContext>
+        {
+            public BookingContext CreateDbContext(string[] args)
+            {
+                var optionsBuilder = new DbContextOptionsBuilder<BookingContext>();
+                optionsBuilder.UseSqlServer("Server=ROMCHIK\\MSSQLSERVER2;Database=HomeCrud2;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
+
+                return new BookingContext(optionsBuilder.Options);
+            }
+        }
+
+
     }
 }

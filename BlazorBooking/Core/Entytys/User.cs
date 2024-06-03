@@ -1,12 +1,11 @@
-﻿using Core.Entytys;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Context
+namespace Core.Entytys
 {
     public class User : IdentityUser<Guid>, IEntity<Guid>
     {
